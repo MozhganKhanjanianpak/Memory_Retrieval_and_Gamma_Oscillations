@@ -1,2 +1,2 @@
-# Memory_Retrieval_and_Gamma_Oscillations
-This code is part of the article "Memory retrieval and gamma oscillations in modular Hopfield-like networks: The role of correlated inputs".
+# Readme
+This code is part of the article "Structured inputs trigger gamma bursts and rapid retrieval in modular neural networks".
